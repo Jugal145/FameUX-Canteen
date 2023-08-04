@@ -1,2 +1,2 @@
-# Campus-Canteen
-Sem 3 SGP Project
+# FameUX-Canteen
+Project
